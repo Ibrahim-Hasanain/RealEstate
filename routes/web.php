@@ -34,3 +34,4 @@ Route::get('/index', function () {
 Route::get('/property-singel', function () {
     return view('property-single');
 });
+
